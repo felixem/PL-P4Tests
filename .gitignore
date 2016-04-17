@@ -1,5 +1,6 @@
 *~
-test/*plp4*
+test/plp4.y
+test/plp4.l
 test/comun.h
 test/lex.yy.c
 test/salida-obtenida
